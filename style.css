@@ -39,3 +39,8 @@ p{
     width: 100%;
     padding-bottom: 50px;
 }
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
